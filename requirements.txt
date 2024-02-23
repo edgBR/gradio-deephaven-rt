@@ -41,7 +41,7 @@ numpy==1.25.2
 orjson==3.9.3
 packaging==23.1
 pandas==2.0.3
-Pillow==10.0.1
+Pillow==10.2.0
 pydantic==2.1.1
 pydantic_core==2.4.0
 pydub==0.25.1
